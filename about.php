@@ -7,7 +7,7 @@
                 </div>
                 <div class="card-body rounded-0">
                     <dl>
-                        <dt class="text-muted"><i class="fa fa-envelope"></i> Email</dt>
+                        <dt class="text-muted"><i class="fa fa-envelope"></i> Email Address</dt>
                         <dd class="pr-4"><?= $_settings->info('email') ?></dd>
                         <dt class="text-muted"><i class="fa fa-phone"></i> Contact #</dt>
                         <dd class="pr-4"><?= $_settings->info('contact') ?></dd>

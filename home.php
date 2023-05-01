@@ -32,7 +32,7 @@
         <div class="card card-outline card-navy shadow rounded-0">
             <div class="card-body rounded-0">
                 <div class="container-fluid">
-                    <h3 class="text-center">Welcome</h3>
+                    <h3 class="text-center">Welcome To Github</h3>
                     <hr>
                     <div class="welcome-content">
                         <?php include("welcome.html") ?>

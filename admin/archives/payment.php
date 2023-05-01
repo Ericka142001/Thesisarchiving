@@ -6,7 +6,7 @@
             <h3 class="text-center"><b><?= isset($_GET["balance"]) ? number_format($_GET["balance"],2) : "0.00" ?></b></h3>
         </div>
         <div class="form-group">
-            <label for="amount" class="control-label text-navy">Amount</label>
+            <label for="amount" class="control-label text-navy">Amount Payment</label>
             <input type="number" name="amount" max="<?= isset($_GET["balance"]) ? ($_GET["balance"]) : 0 ?>" id="amount" class="form-control form-control-border border-navy text-right" required>
         </div>
         <div class="form-group">

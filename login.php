@@ -86,7 +86,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group text-left">
-                                        <a href="<?php echo base_url ?>" class="btn btn-info btn-block">Back to Website</a>
+                                        <a href="<?php echo base_url ?>" class="btn btn-info btn-block">Back to Github</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
